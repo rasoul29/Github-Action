@@ -1,0 +1,21 @@
+{
+  "name": "ali",
+  "age": 28,
+  "address": "foladi:sheshde",
+  "active": true,
+  "key": {
+    "key": "value",
+    "key2": "value",
+    "key3": {
+      "key": "value",
+      "key2": "value"
+    }
+  },
+  "array": [
+    "item",
+    "item2",
+    {
+      "key": "value"
+    }
+  ]
+}
